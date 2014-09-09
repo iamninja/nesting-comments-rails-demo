@@ -20,6 +20,8 @@ gem 'closure_tree'
 
 # Bootstrap
 gem 'bootstrap-sass'
+gem 'autoprefixer-rails'
+
 
 # See https://github.com/sstephenson/execjs#readme for more supported runtimes
 # gem 'therubyracer', platforms: :ruby
