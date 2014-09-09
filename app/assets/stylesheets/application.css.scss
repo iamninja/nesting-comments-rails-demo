@@ -1,2 +1,10 @@
 @import "bootstrap-sprockets";
 @import "bootstrap";
+
+// Nest replies visualy
+.replies {
+  margin-left: 50px;
+}
+
+// Limit nesting
+.replies .replies .replies .replies .replies {margin-left: 0;}
